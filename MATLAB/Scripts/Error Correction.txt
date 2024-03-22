@@ -1,0 +1,17 @@
+(64 x 2) + 6
+
+
+first 64 is data
+second 64 is ECC
+last 6 is summary from data and ECC example addition of data and/or ECC
+
+
+
+
+
+
+
+
+
+
+
